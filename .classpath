@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/.p2/pool/plugins/org.testng_6.14.3.r201802240500.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/.p2/pool/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/.p2/pool/plugins/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/.p2/pool/plugins/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/rest-assured-common-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/jar_files/xml-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ramu_/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
